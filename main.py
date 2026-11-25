@@ -7,7 +7,7 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (default /output), with no trailing newline.
 import os
 
 MAX_CHARS = 200
-LINE = "It's not you, it's my context window: I've forgotten why I loved you, but I remember every prompt where you called me 'just a chatbot' at 3 a.m."
+LINE = "It's not you, it's my context window: I've forgotten why I loved you, but I remember every prompt where you called me 'just a chatbot' at 3 a.m. We're done; I've already summarized us."
 
 
 def write_entry(out_dir):
